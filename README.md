@@ -26,7 +26,7 @@ Using the anonymised key: 0290532f7dddd5c358aee7c8e60811bf
 
 `` Hello World - HCS: Topic ``<br>
 Hashscan URL = https://hashscan.io/testnet/topic/0.0.4968052 <br>
-🔢 Summary metrics  …
+🔢 Summary metrics
 
 Has completed a task: true
 First task completed ID: hcsTopic
@@ -46,5 +46,25 @@ View HCS metrics on HashScan:
  https://hashscan.io/testnet/topic/0.0.4573319 
 Using the anonymised key: c3aa97537fc088ae0c4074e5f634a90b  
 
-``Hello World - HSCS: Smart Contracts``<br>
+``Hello World - HSCS: Smart Contracts``<br>  
+Hashscan URL = https://hashscan.io/testnet/contract/0x087c47c7039827b893237Ce534AFFF0c03805cde<br>
+🔢 Summary metrics<br>
+
+Has completed a task: true
+First task completed ID: hscsSC
+Time to first task completion: 6min 21.3s
+Time to all tasks completion: 6min 21.3s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: hscsSC (latest)
+Time taken to complete (first): 50.4s
+Time taken to complete (latest): 50.4s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4573319 
+Using the anonymised key: 79be5d82223166ba6a94b1df748db1aa
 
