@@ -5,9 +5,7 @@ Hedera is a fully open source public distributed ledger that utilizes the fast, 
 
 `` 5 Minute Token Service Launch Challenge ``
 The new token Hashscan URL: https://hashscan.io/testnet/token/0.0.4968017  
-
-🔢 Summary metrics  …  
-
+🔢 Summary metrics  
 Has completed a task: true
 First task completed ID: 5minHtsTokenLaunchChallenge
 Time to first task completion: 9min 33.5s
